@@ -13,5 +13,5 @@ For backend, go to ./backend directory then run
 # ScreenShot
 
 <p align="center">
-  <img src="ScreenShots/test.png" width="350" alt="accessibility text">
+  <img src="ScreenShots/test.png" width="1024" alt="accessibility text">
 </p>
